@@ -1,0 +1,12 @@
+{
+  "name": "realtime-chat-application",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
